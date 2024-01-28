@@ -1,0 +1,16 @@
+{
+  "name": "wsjtx_udp_listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binary-parser": "^2.2.1",
+    "binary-parser-encoder": "^1.5.3"
+  }
+}
